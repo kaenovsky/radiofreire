@@ -1,7 +1,11 @@
 body {
-  background-color: #6f29ad;
   margin: 2em;
   font-family: Roboto;
+  background: rgb(111, 41, 173);
+  background: -moz-radial-gradient(circle, rgba(111, 41, 173, 1) 30%, rgba(63, 94, 251, 1) 100%);
+  background: -webkit-radial-gradient(circle, rgba(111, 41, 173, 1) 30%, rgba(63, 94, 251, 1) 100%);
+  background: radial-gradient(circle, rgba(111, 41, 173, 1) 30%, rgba(63, 94, 251, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6f29ad", endColorstr="#3f5efb", GradientType=1);
 }
 
 h1 {
