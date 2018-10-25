@@ -1,11 +1,13 @@
+html {
+  min-height: 100%;
+}
+
 body {
   margin: 2em;
-  font-family: Roboto;
-  background: rgb(111, 41, 173);
-  background: -moz-radial-gradient(circle, rgba(111, 41, 173, 1) 30%, rgba(63, 94, 251, 1) 100%);
-  background: -webkit-radial-gradient(circle, rgba(111, 41, 173, 1) 30%, rgba(63, 94, 251, 1) 100%);
-  background: radial-gradient(circle, rgba(111, 41, 173, 1) 30%, rgba(63, 94, 251, 1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#6f29ad", endColorstr="#3f5efb", GradientType=1);
+  font-family: Montserrat;
+  background-color: #21D4FD;
+  background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+  min-height: 100%;
 }
 
 h1 {
