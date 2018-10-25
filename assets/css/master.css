@@ -1,11 +1,17 @@
 body {
   background-color: #6f29ad;
   margin: 2em;
+  font-family: Roboto;
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 24px;
   color: white;
+}
+
+p {
+  font-size: 20px;
+  color: #ddd;
 }
 
 .wrapper {
