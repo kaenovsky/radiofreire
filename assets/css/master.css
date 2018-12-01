@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  margin: 2em;
+  margin: 1vw;
   font-family: Montserrat;
   background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
   min-height: 100%;
@@ -35,7 +35,7 @@ img {
 }
 
 #bottom-player {
-  background: #141414;
+  background: #181818;
   display: flex;
   align-content: center;
   bottom: 0vw;
