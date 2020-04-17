@@ -5,7 +5,7 @@ html {
 body {
   margin: 1vw;
   font-family: Montserrat;
-  background-image: linear-gradient( 135deg, #FD6585 10%, #0D25B9 100%);
+  background: #FEFEFE;
   min-height: 100%;
   text-align: center;
 }
@@ -15,7 +15,11 @@ body {
   flex-flow: column;
   align-items: center;
   justify-content: center;
-  height: calc(100vh - 10vh);
+  height: calc(100vh - 30vh);
+}
+
+.azuraPlayer {
+  width: 100%;
 }
 
 h1 {
